@@ -2,4 +2,4 @@
 Вы находитесь в репозитории с моим первым проектом на проекте **Инжинириум**
 Ссылка на сайт проекта [тут] (https://inginirium-online.ru/)
 Здесь будут разные программы,которые я буду писать,пока буду учить Python.
-![Мем](https://4x4photo.ru/wp-content/uploads/2023/05/e00ac8ae-e2a1-4ab3-aa4e-662433a33ddf.jpg)
+![Мем](https://i08.fotocdn.net/s124/8dfed11c771c05f8/public_pin_l/2828262672.jpg)
